@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from BubbleSort import bubble_sort
 from InsertionSort import insertion_sort
 from SelectionSort import  selection_sort
+from MergeSort import merge_sort
 
 # Function to Benchmark Sorting Algorithms
 def benchmark_sorting(algorithm, sizes):
